@@ -1,6 +1,6 @@
 # Copeme (JavaScript chrome extension version)
 
-Hello there! That's one of my earliest `JavaScript` projects that I made. This is simple bot (or web scraper) that will buy (more like try to buy) clothes on [supreme](https://www.supremenewyork.com) site.
+Hello there! That's one of my earliest `JavaScript` projects that I made. This is simple bot (or web scraper) that will buy (more like try to buy) clothes on [supreme](https://www.supremenewyork.com).
 
 > This code is ugly and I can't remember what everything does
 
